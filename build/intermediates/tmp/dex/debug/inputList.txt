@@ -1,0 +1,2 @@
+C:\Users\Auser\Desktop\FragmentDemo\build\intermediates\classes\debug
+C:\Users\Auser\Desktop\FragmentDemo\build\intermediates\pre-dexed\debug\android-support-v4-f3216c49e0a21e836a8f082875e03a136710e5e6.jar
